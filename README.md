@@ -109,6 +109,3 @@ The repository includes:
 A Linear Regression model was successfully trained to predict Apple stock closing prices.
 
 The model achieved high accuracy with an R² score of approximately 99.94%, demonstrating that historical market features can effectively predict short-term stock price movements.
-AI/ML Engineering Internship
-
-Task 2: Predict Future Stock Prices (Short-Term)
